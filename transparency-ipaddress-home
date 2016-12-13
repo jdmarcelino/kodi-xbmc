@@ -1,0 +1,13 @@
+		<control type="label">
+				<description>IP Address</description>
+				<left>200</left>
+				<top>5</top>
+				<height>49</height>
+				<width min="200" max="300">auto</width>
+				<label>IP: $INFO[Network.IPAddress]</label>
+				<align>left</align>
+				<aligny>center</aligny>
+				<font>font12</font>
+				<textcolor>white</textcolor>
+				<shadowcolor>black</shadowcolor>
+		</control>
