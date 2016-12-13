@@ -1,2 +1,2 @@
 # kodi-xbmc
-Options to use on Kodi Media Center
+Here you'll find some options to customize your Kodi Media Center, aka XBMC.
