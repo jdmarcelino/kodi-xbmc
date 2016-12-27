@@ -1,4 +1,8 @@
 <control type="label">
+ <!--
+ Insert this content in /Contents/Resources/Kodi/addons/skin.transparency/720p/Home.xml
+ If you have another skin, change "transparency" above to your skin name
+ -->
 	<description>IP Address</description>
 	<left>200</left>
 	<top>5</top>
